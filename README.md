@@ -3,10 +3,6 @@
 
 This simple addon cleans up the UV channels of every mesh in the scene leaving only the one highlighted as Active Render one.
 
-### Overview video
-<a href="https://youtu.be/oDgSthAjQbw" rel="overview video">![](pics/MatSlotCleaner_thumbnail.jpg)</a>
-
-
 ---
 ☕🤎 If you find the content useful, you could get me a coffee at https://www.buymeacoffee.com/nazzareno
 
