@@ -1,7 +1,7 @@
-# BatchUVCleaner
+# BatchUVCleaner for Blender 2.8+
 ## Leaves only the active render UV channel to every mesh in the scene
 
-This simple addon cleans up the UV channels of every mesh in the scene leaving only the one highlighted as Active Render one.
+This simple Blender 2.8+ addon cleans up the UV channels of every mesh in the scene leaving only the one highlighted as Active Render one.
 
 ---
 ☕🤎 If you find the content useful, you could get me a coffee at https://www.buymeacoffee.com/nazzareno
